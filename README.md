@@ -1,114 +1,106 @@
-### Hi there, I'm **Jingnan Hu**! 👋
+<h1 align="center">👋 Hi, I'm Jingnan Hu! 🚀</h1>
 
-📍 **Armégatan 32A, Solna**  
-📧 **jingnanhu0610@gmail.com**  
-📞 **+46 793577952**  
-🔗 **GitHub:** [JingnanHu](https://github.com/JingnanHu)  
-
----
-
-## 🎓 **Education**
-### Stockholm University *(Sept 2023 – July 2025, Expected)*  
-**Master of Computer Science**  
-- Network Security (Grade A)
-- Information Security in Organisations (Grade B)
-- Scientific Communication and Research Methodology (Grade A)
-- Intelligence and Security Informatics
-- Cyber Forensics
-
-### Heilongjiang University *(Sept 2019 – May 2023)*  
-**Bachelor of Business English** *(Distinction, GPA: 9.01/10)*  
-- Advanced Mathematics I: Calculus (99/100)
-- Advanced Mathematics II: Linear Algebra (88/100)
-- Advanced Mathematics III: Probability and Statistics (97/100)
-- International Finance (97/100)
-- Commercial Analysis (90/100)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7EF&center=true&width=435&lines=Master's+in+Computer+Science;Game+Development+Enthusiast;AI+%7C+Big+Data+%7C+Cybersecurity;Ex-UN+Intern+%F0%9F%87%A8%F0%9F%87%AD;Always+learning+new+things!+%F0%9F%8C%8F" />
+</p>
 
 ---
 
-## 💼 **Experience**
-### ASYCUDA Program Intern *(Jan 2025 – March 2025, Expected)*  
-**United Nations (Conference on Trade and Development), Geneva, Switzerland**  
-- Conducted software testing to identify and fix bugs, ensuring reliability in ASYCUDA.
-- Worked with backend technologies, database management, and API development.
-- Ensured compliance with IT security best practices, including maintaining system security.
-- Implemented and managed security measures, such as firewalls and password management.
-
-### Full-stack Development Intern *(June 2024 – Aug 2024)*  
-**BergaTandVård, Stockholm, Sweden**  
-- Designed responsive interfaces using **HTML5, CSS3, and JavaScript**.
-- Developed RESTful APIs using **Node.js/Java** for booking and scheduling functionalities.
-- Built a scalable architecture ensuring seamless frontend-backend communication.
-- Managed version control using **Git**.
-
-### Technology Development Intern *(June 2022 – Dec 2022)*  
-**Qiqihar Xingtian Agricultural Materials Chain Co., Ltd., China**  
-- Participated in software requirements analysis, collaborating with stakeholders.
-- Debugged system modules, improving stability and functionality.
-- Created documentation and helped define clear project goals.
+### 🚀 **About Me**
+- 🎮 Passionate about **game programming**, **AI**, and **cybersecurity**
+- 🏆 **Huawei Sweden Hackathon** Finalist | **E-Commerce Challenge** First Prize
+- 🌍 Exploring **5G localization**, **cyberbullying detection**, and **AI-powered solutions**
+- 💻 Experienced with **Python, JavaScript, Java, and C++**
+- 🏗️ Currently building: **Cyberbullying Detection API & AI Game Bots**
+- ☕ Fun fact: I love **strategy games** and **coffee!**
 
 ---
 
-## 🤝 **Volunteer Work**
-### Student Ambassador *(Sept 2024 - Present)*  
-**Stockholm University**  
-- Created promotional content for university marketing on Chinese social media.
-- Assisted new students in adjusting to university life.
-
-### Teaching Assistant *(May 2023 - July 2023)*  
-**Heilongjiang University**  
-- Managed student records, attendance, and grades.
-- Assisted faculty with scheduling and administrative tasks.
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JingnanHu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JingnanHu&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🔬 **Projects**
-### Automated System on Customs and Data (ASYCUDA) *(Confidential)*  
-- Diagnosed and resolved bugs in **Vue.js, Vuetify, VeeValidate** frontend and **Jakarta EE, Quarkus, Spring Boot** backend.
-- Optimized API communication using **Axios, Kafka, and PostgreSQL**.
-- Secured authentication via **Keycloak** and used **Jira** for task tracking.
-
-### SmartHospital *([GitHub](https://github.com/JingnanHu/smartHospital))*  
-- Developed user-friendly interfaces using **Vue.js** for appointment booking.
-- Created API documentation using **Swagger**.
-- Implemented backend services with **Spring Boot, Node.js, MyBatis, SQL**.
+### 🔥 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JingnanHu&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🛠 **Technical Skills**
-- **Languages:** Java, Python, SQL, JavaScript.
-- **Frontend:** HTML, CSS, Vue.js, React, Axios.
-- **Backend:** Node.js, Spring Boot, Jakarta EE, Quarkus, MicroProfile, Dubbo.
-- **Databases & Tools:** MySQL, MongoDB, Redis, Kafka, RocketMQ, Docker, Maven, Gradle, Git.
+### 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,nodejs,react,vue,flutter,aws,docker,kubernetes,linux" />
+</p>
 
 ---
 
-## 🏆 **Awards & Achievements**
-### Huawei Sweden Hackathon *(Nov 2024)*  
-- Developed an advanced **channel charting** algorithm for **Beyond 5G Localization**.
-- Designed a solution to enhance localization accuracy with minimal anchor points.
-
-### The 12th National College Student E-Commerce Challenge *(Aug 2022)*  
-- Won **First Prize at the Provincial Level** for an innovative e-commerce solution.
-- Conducted market research and feasibility analysis.
+### 🚀 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JingnanHu&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎓 **Scholarships**
-- **International Organization Scholarship** - China Scholarship Council *(Jan 2025)*
-- **National Encouragement Scholarship** - Heilongjiang Provincial Department of Education *(Sept 2022)*
-- **First-Class Comprehensive Scholarship** - Heilongjiang University *(Sept 2022)*
+### 🏆 **Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JingnanHu&theme=onedark&margin-w=15&column=7" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
-![Jingnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JingnanHu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JingnanHu&layout=compact&theme=tokyonight)
+### 🎯 **Current Projects**
+- 🛡 **Cyberbullying Detection API**: AI-based content moderation  
+- 🎮 **AI Game Bot**: Training AI to play strategy games  
+- 📡 **5G Localization Research**: Enhancing wireless communication accuracy  
 
 ---
 
-## 📫 **Contact Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
-[![Email](https://img.shields.io/badge/Email-ff69b4?logo=gmail)](mailto:jingnanhu0610@gmail.com)  
+### 🎵 **Now Playing on Spotify**
+<p align="center">
+  <img src="https://novatorem-ten.vercel.app/api/spotify" />
+</p>
 
-💬 Always open to collaborations and new opportunities! Feel free to connect with me. 🚀
+---
+
+### 🤣 **Random Dev Joke**
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" />
+</p>
+
+---
+
+### 🐍 **Snake Contribution Graph**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JingnanHu/JingnanHu/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📊 **Visitor Count**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JingnanHu&label=Profile%20Views&color=blue&style=plastic" />
+</p>
+
+---
+
+### 📬 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/jingnan-hu">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/JingnanHu">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-My%20Site-green?style=for-the-badge&logo=web" />
+  </a>
+</p>
+
+---
+
+🚀 **Let's build something awesome together!** 🚀
+
