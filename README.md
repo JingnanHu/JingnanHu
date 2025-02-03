@@ -37,10 +37,34 @@
 
 ---
 
-### 🎯 **Current Projects**
-- 🛡 **Cyberbullying Detection API**: AI-based content moderation  
-- 🎮 **AI Game Bot**: Training AI to play strategy games  
-- 📡 **5G Localization Research**: Enhancing wireless communication accuracy  
+## 🎯 **Current Projects**
+
+### 🔹 [ChatterBox-AI-Helper](https://github.com/JingnanHu/ChatterBox-AI-Helper) – AI-Powered Q&A Assistant  
+**🤖 Description:** An intelligent Q&A system designed to provide quick, accurate answers to common questions, reducing workload for individuals and support teams.  
+**🛠 Tech Stack:** `Spring Boot` | `DDD Architecture` | `API Web Scraping` | `AI API Integration` | `Docker`  
+**📜 License:** Apache License 2.0  
+
+---
+
+### 🔹 [DesignPatterns](https://github.com/JingnanHu/DesignPatterns) – Java Design Patterns Implementation  
+**📌 Description:** A comprehensive repository covering all **23 Gang of Four (GoF) design patterns** with real-world examples and explanations.  
+**💡 Learning Focus:** Clean code principles, scalable architecture, and best practices in software design.  
+
+---
+
+### 🔹 [SmartHospital](https://github.com/JingnanHu/smartHospital) – Online Medical Appointment System  
+**🏥 Description:** A hospital appointment booking platform aimed at solving the problem of long waiting times and inefficient hospital visits.  
+**📚 What You'll Learn:** Gain experience in microservices architecture, distributed systems, and medical appointment workflows.  
+**🛠 Tech Stack:**  
+- **Backend:** `Spring Boot` | `Spring Cloud` | `MyBatis-Plus` | `Redis` | `RabbitMQ` | `Docker`  
+- **Frontend:** `Vue.js` | `Node.js` | `Axios` | `Nginx`  
+- **Databases:** `MySQL` | `MongoDB`  
+
+---
+
+### 🔹 ASYCUDA (Confidential, Hosted on GitLab)  
+**📦 Description:** A large-scale customs management system designed to automate trade procedures and improve import/export operations.  
+**🌍 Contribution:** Focused on backend development, API integrations, and system performance optimization.
 
 ---
 
