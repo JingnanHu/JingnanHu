@@ -15,13 +15,6 @@
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JingnanHu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JingnanHu&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🔥 **Contribution Graph**
 <p align="center">
@@ -44,13 +37,6 @@
 
 ---
 
-### 🏆 **Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JingnanHu&theme=onedark&margin-w=15&column=7" />
-</p>
-
----
-
 ### 🎯 **Current Projects**
 - 🛡 **Cyberbullying Detection API**: AI-based content moderation  
 - 🎮 **AI Game Bot**: Training AI to play strategy games  
@@ -58,23 +44,9 @@
 
 ---
 
-### 🎵 **Now Playing on Spotify**
-<p align="center">
-  <img src="https://novatorem-ten.vercel.app/api/spotify" />
-</p>
-
----
-
 ### 🤣 **Random Dev Joke**
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" />
-</p>
-
----
-
-### 🐍 **Snake Contribution Graph**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JingnanHu/JingnanHu/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -88,15 +60,13 @@
 
 ### 📬 **Let's Connect!**
 <p align="center">
-  <a href="https://www.linkedin.com/in/jingnan-hu">
+  <a href="https://www.linkedin.com/in/jingnanhu">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/JingnanHu">
     <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-My%20Site-green?style=for-the-badge&logo=web" />
-  </a>
+
 </p>
 
 ---
