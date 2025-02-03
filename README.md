@@ -25,29 +25,7 @@
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/HTML5_logo_and_wordmark.svg" width="50" alt="HTML"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/CSS3_logo.svg" width="50" alt="CSS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Vue.js_Logo.svg" width="50" alt="Vue.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/React.js_Logo.svg" width="50" alt="React"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Axios_logo.svg" width="50" alt="Axios"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Spring_Boot_Logo.svg" width="50" alt="Spring Boot"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/JakartaEE_logo.svg" width="50" alt="Jakarta EE"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/MicroProfile_logo.svg" width="50" alt="MicroProfile"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Quarkus_logo.svg" width="50" alt="Quarkus"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Dubbo_logo.svg" width="50" alt="Dubbo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/MyBatis_logo.svg" width="50" alt="MyBatis"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Kafka_logo.svg" width="50" alt="Kafka"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/RocketMQ_logo.svg" width="50" alt="RocketMQ"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/REST_logo.svg" width="50" alt="REST API"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Maven_logo.svg" width="50" alt="Maven"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Gradle_logo.svg" width="50" alt="Gradle"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Quartz_logo.svg" width="50" alt="Quartz"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Git_logo.svg" width="50" alt="Git"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MySQL_logo.svg" width="50" alt="MySQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/MongoDB_Logo.svg" width="50" alt="MongoDB"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Redis_logo.svg" width="50" alt="Redis"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_logo.svg" width="50" alt="Docker"/>
-</p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,react,vue,flutter,aws,docker,kubernetes,linux" />
 
 
 
