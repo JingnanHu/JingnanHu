@@ -25,8 +25,9 @@
 
 ### 🛠 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,nodejs,react,vue,flutter,aws,docker,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,nodejs,react,axios,springboot,jakartaee,microprofile,quarkus,dubbo,mybatis,kafka,rocketmq,restapi,maven,gradle,quartz,git,mysql,mongodb,redis,docker" />
 </p>
+
 
 ---
 
