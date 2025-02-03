@@ -9,9 +9,8 @@
 ### 🚀 **About Me**
 - 🎮 Passionate about **full-stack development**, **testing development**, **IT support**, and **game programming**
 - 🏆 **Huawei Sweden Hackathon** one to top three | **E-Commerce Challenge** First Prize
-- 🌍 Exploring **5G localization**, **cyberbullying detection**, and **AI-powered solutions**
 - 💻 Experienced with **Java, Python, JavaScript, and C#**
-- 🏗️ Currently building: **Software Development & Testing development** in United Nation
+- 🏗️ Currently building: **Software Development & Testing development** in United Nation🇺🇳
 - ☕ Fun fact: I love **strategy games** and **cat!**
 
 ---
