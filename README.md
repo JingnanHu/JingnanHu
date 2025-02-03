@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jingnan Hu! 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7EF&center=true&width=435&lines=Master's+in+Computer+Science;Game+Development+Enthusiast;AI+%7C+Big+Data+%7C+Cybersecurity;Ex-UN+Intern+%F0%9F%87%A8%F0%9F%87%AD;Always+learning+new+things!+%F0%9F%8C%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7EF&center=true&width=435&lines=The Universe is a programming project.;AI+%7C+Big+Data+%7C+Cybersecurity;Ex-UN+Intern+%F0%9F%87%A8%F0%9F%87%AD;Always+learning+new+things!+%F0%9F%8C%8F" />
 </p>
 
 ---
