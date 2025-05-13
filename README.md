@@ -16,13 +16,6 @@
 ---
 
 
-### 🔥 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JingnanHu&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ### 🛠 **Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,nodejs,react,vue,flutter,aws,docker,kubernetes,linux" />
